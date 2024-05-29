@@ -1,0 +1,15 @@
+.bg_cont {
+    background-color: #222A34;
+    width: 1000px;
+    height: 800px;
+    border-radius: 20px;
+    margin: 0 auto;
+    margin-top: 150px;
+    position: relative;
+}
+
+.close_pop {
+    position: absolute;
+    top: 15px;
+    left: 20px;
+}
